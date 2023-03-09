@@ -1,0 +1,42 @@
+#titulo {
+
+    margin-top: 0;
+}
+
+#imagemMario {
+    width: 100%;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.instrucoes {
+    float: right;
+}
+
+#rodape {
+    bottom: 0;
+    position: fixed;
+    background-color: purple;
+    color: white;
+    width: 100%;
+}
+
+.model-dialog {
+    width: 90%;
+}
+
+.imagemInLinne {
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    padding: 25px;
+    background-position: center;
+}
+
